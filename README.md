@@ -12,6 +12,6 @@ Os integrantes desse grupo são:
 - Lorenzo Carrera de Oliveira ([@loolirer](https://github.com/AndreCadena))
 - Mateus Pincho de Oliveira ([@MateusPincho](https://github.com/MateusPincho))
 
-A disciplina foi ministrada pelo professor Luis Augusto Medeiros Martins em 2023.
+A disciplina foi ministrada pelo professor Lui Augusto Medeiros Martins em 2023.
 
 ---
